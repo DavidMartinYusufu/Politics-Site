@@ -28,7 +28,7 @@ button, input, select { font: inherit; }
 img { display: block; max-width: 100%; }
 .container { width: min(1180px, calc(100% - 48px)); margin-inline: auto; }
 .topbar { color: #fff; background: var(--burgundy-dark); font-size: 11px; letter-spacing: .01em; }
-.topbar-inner { min-height: 34px; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+.topbar-inner { min-height: 34px; display: flex; align-items: center; justify-content: center; gap: 20px; }
 .topbar p { margin: 0; opacity: .94; }
 .topbar-mark { color: var(--gold-light); margin-right: 8px; }
 .scripture { color: #e8cf9c; margin-left: 4px; }
